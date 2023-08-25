@@ -1,2 +1,16 @@
-Hello
-what i tring to do in this pgaes is create a library, with the books i have read o i am reading. Also too, with more options to read for the future. 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="dream books">
+        <script type="text/javascript" src="bootstrap.js"></script>
+        <title>My Dream Books</title>
+    </head>
+    <body>
+<img src="#" alt="my page" width="100%" height="100%">
+<h1>RESUME</h1>
+<P> On this page what I am trying to do, is collect different books, that I personally like or i am interested in reading.
+    I will add more books that can fascinate anyone, even those who are not book lovers. Books that had become popular or not recognized by the public. This page is still under construction which will have many gaps. 
+</P>
+</body>
+</html>
